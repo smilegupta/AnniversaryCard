@@ -1,5 +1,5 @@
 # AnniversaryCard! - [Coder's way of wishing](https://smilegupta.github.io/LockDownValaBday)
-[![Happy WedLocks Day](https://img.shields.io/badge/Happy-Birthday-dodgerblue.svg?style=for-the-badge)](https://smilegupta.github.io/AnniversaryCard/) [![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)](https://smilegupta.github.io/AnniversaryCard/)
+[![Happy WedLocks Day](https://img.shields.io/badge/Happy-WedLocksDay-dodgerblue.svg?style=for-the-badge)](https://smilegupta.github.io/AnniversaryCard/) [![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)](https://smilegupta.github.io/AnniversaryCard/)
 > **99.9% of people just say "Happy Anniversary" to each other over Social Networking Sites like [Facebook](https://www.facebook.com/smilegupta.1998) and [Twitter](https://twitter.com/gupta_smile_) with the same 15 predictable letters. Why not say it with `code`? If you're a developer you already understand it!**
 
 [![check demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://smilegupta.github.io/AnniversaryCard/)
